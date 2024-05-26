@@ -1,0 +1,22 @@
+id,area,calls_made,calls_successful,name,address,sales_amount,percentage_successful_calls,rank
+286,Finance,20,19,Giovanni Weerdenburg,"4101 AQ, Kruisland",43785.54,0.95,1
+442,Finance,79,75,Sanne Verbeeck,"Noahlaan 98, 9533 XM, IJhorst",81272.93,0.95,1
+864,Finance,100,95,Ceylin van Voorst,"Fayweg 82, 7959 WD, Middenmeer",67153.61,0.95,1
+896,Finance,74,70,Maxim Remmers,"5637 HG, IJmuiden",73969.15,0.95,1
+902,Finance,19,18,Stan Sprong,"Fabiënnering 744, 6834 KS, Knegsel",49049.11,0.95,1
+912,Games,78,74,Sven Lutterveld,"1406 XV, Meerssen",99056.55,0.95,1
+115,Games,85,80,Renske van der Hoeven,"Irislaan 82, 1387 AB, Bovensmilde",52193.46,0.94,2
+180,Games,94,88,Danique Westerbeek,"8725 UR, Aalden",52397.78,0.94,2
+375,Games,85,80,Naud Cornelisse,"3004 RB, Molkwerum",82889.32,0.94,2
+559,Games,77,72,Sam Zuijdveld,"Sepweg 04, 5156 FC, Siegerswoude",73680.32,0.94,2
+951,Games,32,30,Féline Gerritse-Huisman,"Dewiboulevard 970, 9002 SM, Enschede",71229.8,0.94,2
+499,HR,19,18,Ashley Jonkman-de Gruijter,"Eliasring 3, 7810 WT, Hedel",51414.91,0.95,1
+151,HR,18,17,Jayda Wilcken,"Emilyring 79, 5566 JJ, Langbroek",90189.68,0.94,2
+171,HR,17,16,Norah Voortman,"5318 MH, Jabeek",38607.71,0.94,2
+159,IT,80,76,Amy Roessink-van Beieren,"5148 ZF, Vleuten",86228.9,0.95,1
+177,IT,58,55,Rowan Mens,"Aminalaan 977, 6104 JB, Tjerkwerd",38577.47,0.95,1
+811,IT,93,88,Jacob Booden,"6506 IJ, Huijbergen",55980.62,0.95,1
+982,IT,60,57,Puck Tins,"Aidensteeg 81, 4488 CE, Achterveld",98552.73,0.95,1
+368,Marketing,100,95,Lara van Vlaanderen-van de Darnau,"5404 FP, Muiden",93065.36,0.95,1
+481,Marketing,66,62,Pieter de Gruson,"2096 FH, Noordwijkerhout",81272.13,0.94,2
+884,Marketing,80,75,Siem Poncelet-de Gruil,"Leonsingel 834, 3698 VF, Sint Joost",91281.03,0.94,2

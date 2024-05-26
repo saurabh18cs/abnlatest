@@ -1,0 +1,13 @@
+2024-05-26 20:25:57,398 - job - INFO - Extraction start
+2024-05-26 20:25:57,405 - job - INFO - DataFrame_1 extracted from CSV
+2024-05-26 20:25:57,406 - job - INFO - DataFrame_2 extracted from CSV
+2024-05-26 20:25:57,407 - job - INFO - DataFrame_3 extracted from CSV
+2024-05-26 20:25:57,407 - job - INFO - Extraction end
+2024-05-26 20:27:52,342 - job - INFO - Extraction start
+2024-05-26 20:27:52,342 - job - INFO - DataFrame_1 extracted from CSV
+2024-05-26 20:27:52,342 - job - INFO - DataFrame_2 extracted from CSV
+2024-05-26 20:27:52,342 - job - INFO - DataFrame_3 extracted from CSV
+2024-05-26 20:27:52,342 - job - INFO - Extraction end
+2024-05-26 20:31:03,220 - job - INFO - Transformation start - IT Data
+2024-05-26 20:32:54,358 - job - INFO - Transformation start - IT Data
+2024-05-26 20:32:54,537 - job - INFO - Transformation end - IT Data
