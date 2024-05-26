@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as f:
 with open("README.md", "r") as f:
     long_description = f.read()
 
-setup(
+setup(    
     name="abnlatest",
     version="0.0.1",
     description="The program provides insights of EternalTeleSales Fran van Seb Group employees.",
