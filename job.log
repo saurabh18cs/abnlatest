@@ -1,13 +1,18 @@
-2024-05-26 20:25:57,398 - job - INFO - Extraction start
-2024-05-26 20:25:57,405 - job - INFO - DataFrame_1 extracted from CSV
-2024-05-26 20:25:57,406 - job - INFO - DataFrame_2 extracted from CSV
-2024-05-26 20:25:57,407 - job - INFO - DataFrame_3 extracted from CSV
-2024-05-26 20:25:57,407 - job - INFO - Extraction end
-2024-05-26 20:27:52,342 - job - INFO - Extraction start
-2024-05-26 20:27:52,342 - job - INFO - DataFrame_1 extracted from CSV
-2024-05-26 20:27:52,342 - job - INFO - DataFrame_2 extracted from CSV
-2024-05-26 20:27:52,342 - job - INFO - DataFrame_3 extracted from CSV
-2024-05-26 20:27:52,342 - job - INFO - Extraction end
-2024-05-26 20:31:03,220 - job - INFO - Transformation start - IT Data
-2024-05-26 20:32:54,358 - job - INFO - Transformation start - IT Data
-2024-05-26 20:32:54,537 - job - INFO - Transformation end - IT Data
+2024-05-29 19:32:37,833 - __main__ - INFO - Transformation start - IT Data
+2024-05-29 19:32:37,888 - __main__ - INFO - Transformation end - IT Data
+2024-05-29 19:32:37,888 - __main__ - INFO - Transformation start - Marketing Address Information
+2024-05-29 19:32:37,957 - __main__ - INFO - Transformation end - Marketing Address Information
+2024-05-29 19:32:37,957 - __main__ - INFO - Transformation start - Department Breakdown
+2024-05-29 19:32:38,100 - __main__ - INFO - Transformation end - Department Breakdown
+2024-05-29 19:32:38,100 - __main__ - INFO - Bonus Transformation start - best performers
+2024-05-29 19:32:38,219 - __main__ - INFO - Bonus Transformation end - best performers
+2024-05-29 19:32:38,219 - __main__ - INFO - Load start
+2024-05-29 19:32:38,983 - __main__ - INFO - DataFrame written to CSV
+2024-05-29 19:32:38,985 - __main__ - INFO - Load end
+2024-05-29 19:32:39,400 - __main__ - INFO - DataFrame written to CSV
+2024-05-29 19:32:39,400 - __main__ - INFO - Load end
+2024-05-29 19:32:41,204 - __main__ - INFO - DataFrame written to CSV
+2024-05-29 19:32:41,204 - __main__ - INFO - Load end
+2024-05-29 19:32:42,320 - __main__ - INFO - DataFrame written to CSV
+2024-05-29 19:32:42,321 - __main__ - INFO - Load end
+2024-05-29 19:32:42,321 - __main__ - INFO - Demo end
