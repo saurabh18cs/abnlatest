@@ -43,5 +43,4 @@ To install and run the application, follow these steps:
 To use the application, follow these instructions from python terminal:
 
 ```bash
-from abnlatest import job
-python -m abnlatest.job "--fpath_1" "resources/latest/dataset_one.csv" "--fpath_2" "resources/latest/dataset_two.csv" "--fpath_3" "resources/latest/dataset_three.csv"
+spark-submit --master local --py-files C:\Users\saugupta\Downloads\abnlatest-0.0.1-py3-none-any.whl abnlatest/job.py --fpath_1 resources/latest/dataset_one.csv --fpath_2 resources/latest/dataset_two.csv --fpath_3 resources/latest/dataset_three.csv
